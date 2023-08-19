@@ -1,6 +1,5 @@
-### Hi there 👋
 
-<h1 align="center">hey, I'm Ray 👋</h1>
+<h1 align="center">Hi, I'm Ray 👋</h1>
 
 ###
 
