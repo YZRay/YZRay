@@ -10,7 +10,7 @@
 
 <br clear="both">
 
-<p align="left">I'm Ray from Taiwan.<br><br>- 📚 I'm currently learning python.<br><br>I graduated from the Department of Art Industry at National Taitung University. Throughout my academic journey, I dedicated myself to honing my skills in art and design. I also had a strong passion for exploring UI/UX design practices, actively learning from experts and resources in the field. Additionally, I utilized my spare time to learn and enhance my skills in frontend development. <br>When I was a student, I engaged in various projects and courses that required teamwork and collaboration. These experiences taught me to listen to others' opinions, actively participate in discussions, and achieve common goals through collaboration. These experiences not only made me more open-minded and flexible but also turned me into an exceptional team collaborator.</p>
+<p align="left">I'm Ray from Kaohsiung, Taiwan.<br><br>- 📚 I'm currently learning python.<br><br>I graduated from the Department of Art Industry at National Taitung University. Throughout my academic journey, I dedicated myself to honing my skills in art and design. I also had a strong passion for exploring UI/UX design practices, actively learning from experts and resources in the field. Additionally, I utilized my spare time to learn and enhance my skills in frontend development. <br>When I was a student, I engaged in various projects and courses that required teamwork and collaboration. These experiences taught me to listen to others' opinions, actively participate in discussions, and achieve common goals through collaboration. These experiences not only made me more open-minded and flexible but also turned me into an exceptional team collaborator.</p>
 
 ###
 
