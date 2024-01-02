@@ -31,8 +31,6 @@
   <img width="18" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="34" alt="python logo"  />
   <img width="18" />
-  <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white&style=for-the-badge" height="34" alt="slack logo"  />
-  <img width="18" />
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="34" alt="tailwindcss logo"  />
   <img width="18" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="34" alt="figma logo"  />
@@ -47,9 +45,17 @@
   <img width="18" />
   <img src="https://img.shields.io/badge/gulp-CF4647?logo=gulp&logoColor=white&style=for-the-badge" height="34" alt="gulp logo"  />
   <img width="18" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="34" alt="nextjs logo"  />
-  <img width="18" />
   <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=black&style=for-the-badge" height="34" alt="sass logo"  />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="34" alt="nodejs logo"  />
+  <img width="18" />
+  <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" height="34" alt="azure logo"  />
+  <img width="18" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge" height="34" alt="jquery logo"  />
+  <img width="18" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="34" alt="nextjs logo"  />
+</div>
+
+###
 </div>
 
 ###
