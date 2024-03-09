@@ -15,41 +15,45 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="36" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="36" alt="javascript logo"  />
   <img width="8" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="36" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="36" alt="typescript logo"  />
   <img width="8" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="36" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="36" alt="react logo"  />
   <img width="8" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="36" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="36" alt="nextjs logo"  />
   <img width="8" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="36" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="36" alt="nodejs logo"  />
   <img width="8" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="36" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="36" alt="html5 logo"  />
   <img width="8" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="36" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="36" alt="css3 logo"  />
   <img width="8" />
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="36" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="36" alt="tailwindcss logo"  />
   <img width="8" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="36" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="36" alt="figma logo"  />
   <img width="8" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="36" alt="bootstrap logo"  />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="36" alt="bootstrap logo"  />
   <img width="8" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="36" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="36" alt="git logo"  />
   <img width="8" />
-  <img src="https://img.shields.io/badge/gulp-CF4647?logo=gulp&logoColor=white&style=for-the-badge" height="36" alt="gulp logo"  />
+  <img src="https://skillicons.dev/icons?i=gulp" height="36" alt="gulp logo"  />
   <img width="8" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=black&style=for-the-badge" height="36" alt="sass logo"  />
+  <img src="https://skillicons.dev/icons?i=sass" height="36" alt="sass logo"  />
   <img width="8" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge" height="36" alt="jquery logo"  />
+  <img src="https://skillicons.dev/icons?i=jquery" height="36" alt="jquery logo"  />
   <img width="8" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="36" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="36" alt="python logo"  />
   <img width="8" />
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="36" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="36" alt="express logo"  />
   <img width="8" />
-  <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" height="36" alt="azure logo"  />
+  <img src="https://skillicons.dev/icons?i=azure" height="36" alt="azure logo"  />
   <img width="8" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=black&style=for-the-badge" height="36" alt="vuejs logo"  />
+  <img src="https://skillicons.dev/icons?i=vue" height="36" alt="vuejs logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="36" alt="firebase logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=redux" height="36" alt="redux logo"  />
 </div>
 
 ###
