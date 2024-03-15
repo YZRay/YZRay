@@ -1,5 +1,4 @@
-<h1 align="center">hey, I'm Ray 👋</h1>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=18AADF&center=true&vCenter=true&random=false&width=435&lines=Hey%2C+I'm+Ray+%F0%9F%91%8B;A+Frontend+Developer)](https://git.io/typing-svg)
 ###
 
 <h3 align="left">👩‍💻 About Me</h3>
