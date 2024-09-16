@@ -64,7 +64,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/%E6%BE%A4%E7%9D%BF-%E5%A7%9A-82374b26b/" target="_blank">
+  <a href="https://www.linkedin.com/in/%E6%BE%A4%E7%9D%BF-%E5%A7%9A-82374b26b" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://codepen.io/YZRay" target="_blank">
